@@ -1,0 +1,2 @@
+# js_avoid
+原生JS画框，getboundingclientrect计算方框xyz以及宽高
